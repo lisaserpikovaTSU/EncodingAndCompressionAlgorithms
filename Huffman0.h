@@ -8,4 +8,6 @@ class Huffman0 {
 };
 
 
+
+
 #endif //ENCODINGANDCOMPRESSIONALGORITHMS_HUFFMAN0_H
